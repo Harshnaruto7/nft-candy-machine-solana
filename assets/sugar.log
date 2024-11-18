@@ -1,0 +1,4 @@
+{"v":0,"name":"sugar","msg":"Lend me some sugar, I am your neighbor.","level":30,"hostname":"LAPTOP-EFTM9VB6","pid":5112,"time":"2024-07-07T06:26:03.911375Z","target":"sugar","line":123,"file":"src/main.rs"}
+
+{"v":0,"name":"sugar","msg":"Failed to read keypair file: ./wallet.json, The system cannot find the file specified. (os error 2)","level":50,"hostname":"LAPTOP-EFTM9VB6","pid":6876,"time":"2024-07-07T06:25:04.8696075Z","target":"sugar_cli::setup","line":55,"file":"src\\setup.rs"}
+is missing or empty.","level":30,"hostname":"LAPTOP-EFTM9VB6","pid":14628,"time":"2024-07-06T14:21:51.5452922Z","target":"sugar_cli::validate::process","line":33,"file":"src\\validate\\process.rs"}

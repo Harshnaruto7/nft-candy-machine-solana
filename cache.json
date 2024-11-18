@@ -1,0 +1,74 @@
+{
+  "program": {
+    "candyMachine": "9dJAf4PSgWii2TN5w96f2PnXW9yucCEKtRjUtA6vnkEs",
+    "candyGuard": "",
+    "candyMachineCreator": "Du7s6q5C1mMkZWp4BWuq8qXdTSZqNFXoVVHCj7GzXuCF",
+    "collectionMint": "AYhZmb8aEFtuk1aPRyrHPsw9oMexLBUbu7XRxJoshrsG"
+  },
+  "items": {
+    "-1": {
+      "name": "Polar Inu Collection",
+      "image_hash": "13bafad9e0c260f3ca461fe11e60c8f03ad4b581feadf8f4c14f8277ec6475b4",
+      "image_link": "https://arweave.net/2Gx4osAYKd27SN4tUWH74pBMx8QN6iU1xKJA5rl33yI?ext=png",
+      "metadata_hash": "fb6287d2677ff50be7334b70d1041e82299f91efef02d2bc85d90ac70b3c2604",
+      "metadata_link": "https://arweave.net/hkWjml7OwvS8l3Dt1h8QFfjcLfhFMnOYxynzMo8oHrk",
+      "onChain": true
+    },
+    "0": {
+      "name": "Item 0",
+      "image_hash": "4234fb6bf9973e5ad2e6f19929375e363d4b59ea2b5b3c93e5e3bffc6606fcd8",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/0.png",
+      "metadata_hash": "87a147713f626af36f22d4832d6eef39278183f0dfcacc86c75a91a405d484c0",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "Item 1",
+      "image_hash": "915190bb09036b9edb7670bd2333c8a608a2558790506f82c1a89cb2b570d01e",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/1.png",
+      "metadata_hash": "95b780d885be368c1d4f3b5869ca38ccb0e3c7ab794a28a65cef208e1372c8b5",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "Item 2",
+      "image_hash": "b7664cd25781eb13e03138084791fb9e47f0cf09425cf060876dbe6f62362a41",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/2.png",
+      "metadata_hash": "325046f3048481e67fb39d7873cca2a4464259b10592b0545d674a2f106d2ed8",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/2.json",
+      "onChain": true
+    },
+    "3": {
+      "name": "Item 3",
+      "image_hash": "136a6c30dfa9a0cd28c4c8fbe981ecb17b2e04e5ef1c47c5a78217db5f601fe8",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/3.png",
+      "metadata_hash": "cbad5d7906570872a39f5ea44ede7b8b4dd611bed047039bd7f2f824167ec62b",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/3.json",
+      "onChain": true
+    },
+    "4": {
+      "name": "Item 4",
+      "image_hash": "0174edd78022c6f71a4fa4cdd7a399b03bd54210d11cdce23da1d8964f80d9f6",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/4.png",
+      "metadata_hash": "7b34b85c8879ba9fd85908a162d6b194e2e35ad1a7512b664cfe4379473d0131",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/4.json",
+      "onChain": true
+    },
+    "5": {
+      "name": "Item 5",
+      "image_hash": "9265234a07a4914daca3a85b779362b0c984da5e5a6f53d3a39682f7a9c1a18f",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/5.png",
+      "metadata_hash": "351a69818cce96831b932fc1e9c6a740e46c16fa1b6725bae82af95fcce9354f",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/5.json",
+      "onChain": true
+    },
+    "6": {
+      "name": "Item 6",
+      "image_hash": "65abf9a2b1f5a86a07311afbae45ac83cb1abc832c8299c34f4879cef9df76a0",
+      "image_link": "/e/Coding_All/Freelance_project/candy_machine/assets/6.png",
+      "metadata_hash": "0e9e37216d1008cced0e2b1f80e4fd0a2d7eb2d174eb29055eab1c75e916e712",
+      "metadata_link": "/e/Coding_All/Freelance_project/candy_machine/assets/6.json",
+      "onChain": true
+    }
+  }
+}

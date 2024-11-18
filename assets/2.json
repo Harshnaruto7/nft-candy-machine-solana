@@ -1,0 +1,15 @@
+{
+    "name": "Test NFT",
+    "symbol": "",
+    "description": "A test NFT.",
+    "image": "0.png",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
